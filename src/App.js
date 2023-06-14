@@ -20,6 +20,34 @@ function App() {
           </h1>
         }
       </div>
+      {/* Adding Menubar collapsible */}
+      <div
+        tabIndex={0}
+        className="collapse collapse-plus border rounded-none h-fit border-base-300 bg-base-200 visible lg:hidden"
+      >
+        <div className="w-full flex justify-between py-6">
+          <div className="flex justify-center items-center font-semibold text-base text-amber-500 w-1/2 h-full">
+            People
+          </div>
+          <div className="collapse-title text-blue-600 font-semibold text-base w-1/2">
+            More
+          </div>
+        </div>
+
+        <div className="flex flex-col gap-3 collapse-content w-full px-16">
+          <a href="/" className="font-semibold">Overview</a>
+          <a href="/" className="font-semibold">Publication list Pre 2020</a>
+          <a href="/" className="font-semibold">Publication</a>
+          <a href="/" className="font-semibold text-amber-500">People</a>
+          <a href="/" className="font-semibold">Projects</a>
+          <a href="/" className="font-semibold">Press</a>
+          <a href="/" className="font-semibold">Events</a>
+          <a href="/" className="font-semibold">Updates</a>
+          <a href="/" className="font-semibold">Archived Projects</a>
+          <a href="/" className="font-semibold">Tools</a>
+          <a href="/" className="font-semibold">Dataset</a>
+        </div>
+      </div>
       <div className="flex w-full h-fit">
         {/* Start of right div hidden */}
         <div className=" gap-4 -mt-36 w-1/4 bg-white border-slate-200 border hidden lg:flex lg:flex-col py-28 pl-24 pr-24">
@@ -102,7 +130,11 @@ function App() {
         {
           <div className="flex flex-col h-fit w-full lg:w-3/4">
             <div className="flex flex-col lg:flex-row w-full">
-              <Card fullName={"Example 1"} positionName={"Example Positions"} photoURL={Banner}/>
+              <Card
+                fullName={"Example 1"}
+                positionName={"Example Positions"}
+                photoURL={Banner}
+              />
               <Card />
               <Card />
             </div>
