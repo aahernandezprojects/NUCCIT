@@ -1,7 +1,7 @@
 import React from "react";
 import Banner from "./Assets/banner-nu.jpg";
 import Card from "./Components/Card";
-import Logo from "./Assets/logo2.png"
+import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="min-h-screen w-full">
@@ -132,6 +132,9 @@ function App() {
           <Card />
           <Card />
         </div>
+      </div>
+      <div className="h-fit w-full">
+        <Footer />
       </div>
     </div>
   );
