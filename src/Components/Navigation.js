@@ -8,7 +8,7 @@ function Navigation() {
       <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
       <div className="drawer-content flex flex-col">
         {/* Navbar */}
-          <div className="w-full navbar bg-white bg-opacity-50 pt-5 px-5 lg:px-14 absolute">
+          <div className="w-full navbar bg-white bg-opacity-50 px-5 lg:px-14 sticky top-0">
             <div className="flex-1 px-2 mx-2">
               <img src={Logo} alt="Logo" className="hidden lg:block w-64" />
               <img
