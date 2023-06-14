@@ -102,7 +102,7 @@ function App() {
         {
           <div className="flex flex-col h-fit w-full lg:w-3/4">
             <div className="flex flex-col lg:flex-row w-full">
-              <Card />
+              <Card fullName={"Example 1"} positionName={"Example Positions"} photoURL={Banner}/>
               <Card />
               <Card />
             </div>
