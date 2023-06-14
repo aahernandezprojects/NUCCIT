@@ -2,7 +2,7 @@ import React from "react";
 
 function Card({fullName,positionName,photoURL}) {
   return (
-    <div className="w-full h-96 border border-slate-100 cursor cursor-pointer group">
+    <div className="lg:w-full w-96 h-96 border border-base-200 cursor cursor-pointer group">
       <div className="w-full h-1/2 flex justify-end">
         <div className="w-1/2 h-full  flex flex-col justify-end">
             <img src={photoURL} alt={`Photo for ${fullName}`} className="w-full h-full object-cover"/>
