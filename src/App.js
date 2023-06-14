@@ -89,7 +89,7 @@ function App() {
         <div className=" gap-4 -mt-36 w-1/4 bg-base-100 border-slate-200 border hidden lg:flex lg:flex-col py-28 pl-24 pr-24">
           <h3 className="font-bold">{"< Research"}</h3>
           <div className="divider mt-16" />
-          <h3 className="font-bold text-gray-400 mt-16">In this Group:</h3>
+          <h3 className="font-bold text-gray-400">In this Group:</h3>
           <a
             className="font-bold hover:text-blue-700 transition-colors"
             href="/"
@@ -231,15 +231,15 @@ function App() {
             positionName={"Project Assistant IV"}
             photoURL={Jessica}
           />
-          {/* <Card
-            fullName={"Jessica Marie Manalo"}
-            positionName={"Project Assistant IV"}
-            photoURL={Jessica}
-          /> */}
-          {/*  <Card
-            fullName={"Jessica Marie Manalo"}
-            positionName={"Project Assistant IV"}
-            photoURL={Jessica}
+         {/*  <Card
+            fullName={""}
+            positionName={""}
+            photoURL={""}
+          />
+           <Card
+            fullName={""}
+            positionName={""}
+            photoURL={""}
           /> */}
         </div>
         {/* <div className="flex flex-col lg:flex-row w-full">
