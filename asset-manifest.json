@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/aahernandezprojects/NUCCIT/static/css/main.49db7443.css",
+    "main.js": "/aahernandezprojects/NUCCIT/static/js/main.cd6ffd51.js",
+    "static/media/mon.png": "/aahernandezprojects/NUCCIT/static/media/mon.e99a39fd5d2376884052.png",
+    "static/media/alexa.png": "/aahernandezprojects/NUCCIT/static/media/alexa.373c9b1d3df24b6c5b51.png",
+    "static/media/myron.png": "/aahernandezprojects/NUCCIT/static/media/myron.c911733f985e460407bb.png",
+    "static/media/joseph.png": "/aahernandezprojects/NUCCIT/static/media/joseph.11a7cd0033a62fede85c.png",
+    "static/media/jen.png": "/aahernandezprojects/NUCCIT/static/media/jen.324271e6b80bdc911f64.png",
+    "static/media/mideth.png": "/aahernandezprojects/NUCCIT/static/media/mideth.6766caa8eb8fd2e50496.png",
+    "static/media/alex.png": "/aahernandezprojects/NUCCIT/static/media/alex.a647f05b825f22f3507f.png",
+    "static/media/gizelle.png": "/aahernandezprojects/NUCCIT/static/media/gizelle.84e3f23b275972b2cc49.png",
+    "static/media/banner-nu.jpg": "/aahernandezprojects/NUCCIT/static/media/banner-nu.6da3512b131eb6df2075.jpg",
+    "static/media/ja.png": "/aahernandezprojects/NUCCIT/static/media/ja.14bec3254277251c9df5.png",
+    "static/media/jessica.jpg": "/aahernandezprojects/NUCCIT/static/media/jessica.ea785f122f9c33784255.jpg",
+    "static/media/logo2.png": "/aahernandezprojects/NUCCIT/static/media/logo2.e9616319aeed5e74bb6a.png",
+    "static/media/emeliza.png": "/aahernandezprojects/NUCCIT/static/media/emeliza.76e2e4775e2a44bab2cc.png",
+    "static/media/logo1.png": "/aahernandezprojects/NUCCIT/static/media/logo1.2cca6ed76d2d2040b136.png",
+    "index.html": "/aahernandezprojects/NUCCIT/index.html",
+    "main.49db7443.css.map": "/aahernandezprojects/NUCCIT/static/css/main.49db7443.css.map",
+    "main.cd6ffd51.js.map": "/aahernandezprojects/NUCCIT/static/js/main.cd6ffd51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49db7443.css",
+    "static/js/main.cd6ffd51.js"
+  ]
+}
